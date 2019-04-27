@@ -112,3 +112,32 @@ D:\TCC - 20.06 (Atualizado)\Elaborator_JackPassouAqui\WFA_Elaborator\bin\Debug\B
 D:\TCC - 20.06 (Atualizado)\Elaborator_JackPassouAqui\WFA_Elaborator\bin\Debug\Google.Protobuf.dll
 D:\TCC - 20.06 (Atualizado)\Elaborator_JackPassouAqui\WFA_Elaborator\bin\Debug\MySql.Data.dll
 D:\TCC - 20.06 (Atualizado)\Elaborator_JackPassouAqui\WFA_Elaborator\bin\Debug\Google.Protobuf.xml
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\WFA_tcc.exe.config
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\WFA_tcc.exe
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\WFA_tcc.pdb
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\BouncyCastle.Crypto.dll
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\Google.Protobuf.dll
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\MySql.Data.dll
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\Google.Protobuf.xml
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\MySql.Data.xml
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\prjElaboratorForms.csprojAssemblyReference.cache
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmAlterarDados.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmAlterarSenha.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmDadosGerais.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.Form1.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmCadastro.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmCadastroDispo.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmMaterias.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmDadosDocente.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmDispoGeral.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmLogin.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmCadastroMaterias.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmMenuAdmin.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.frmMenuDocente.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.Properties.Resources.resources
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\prjElaboratorForms.csproj.GenerateResource.cache
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\prjElaboratorForms.csproj.CoreCompileInputs.cache
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\prjElaboratorForms.csproj.CopyComplete
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.exe
+D:\Workspace C#\EtecTcc2017\TccEtec2017\WFA_Elaborator\obj\Debug\WFA_tcc.pdb
