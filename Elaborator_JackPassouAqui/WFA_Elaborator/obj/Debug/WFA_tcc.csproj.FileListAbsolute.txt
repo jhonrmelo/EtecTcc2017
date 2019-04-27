@@ -1,0 +1,169 @@
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.exe
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.pdb
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.pdb
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\MySql.Data.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csprojResolveAssemblyReference.cache
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarDados.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarSenha.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosGerais.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Form1.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastro.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroDispo.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMaterias.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosDocente.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDispoGeral.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmLogin.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroMaterias.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuAdmin.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuDocente.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Properties.Resources.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.View.frmRelatorio.resources
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csproj.GenerateResource.Cache
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.cache
+G:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.compiled
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.exe
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.pdb
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\MySql.Data.dll
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\MySql.Data.xml
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csprojResolveAssemblyReference.cache
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarDados.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarSenha.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosGerais.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Form1.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastro.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroDispo.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMaterias.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosDocente.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDispoGeral.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmLogin.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroMaterias.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuAdmin.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuDocente.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Properties.Resources.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.View.frmRelatorio.resources
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csproj.GenerateResource.Cache
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.cache
+E:\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.compiled
+D:\ID3\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+D:\ID3\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.exe
+D:\ID3\TCC - 08.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.pdb
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.exe
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.pdb
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.pdb
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\MySql.Data.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\Microsoft.SqlServer.Types.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csprojResolveAssemblyReference.cache
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarDados.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarSenha.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosGerais.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Form1.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastro.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroDispo.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMaterias.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosDocente.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDispoGeral.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmLogin.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroMaterias.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuAdmin.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuDocente.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Properties.Resources.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.View.frmRelatorio.resources
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csproj.GenerateResource.Cache
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.cache
+K:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.compiled
+E:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+E:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.exe
+E:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.pdb
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.exe
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.pdb
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csprojResolveAssemblyReference.cache
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarDados.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarSenha.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosGerais.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Form1.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastro.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroDispo.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMaterias.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosDocente.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDispoGeral.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmLogin.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroMaterias.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuAdmin.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuDocente.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Properties.Resources.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.View.frmRelatorio.resources
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csproj.GenerateResource.Cache
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.cache
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator\WFA_tcc\obj\Debug\RdlCompile.compiled
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.exe
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.pdb
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csprojResolveAssemblyReference.cache
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarDados.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmAlterarSenha.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosGerais.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Form1.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastro.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroDispo.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMaterias.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDadosDocente.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmDispoGeral.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmLogin.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmCadastroMaterias.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuAdmin.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.frmMenuDocente.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.Properties.Resources.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.View.frmRelatorio.resources
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\obj\Debug\WFA_tcc.csproj.GenerateResource.Cache
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.exe
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\WFA_tcc.pdb
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\MySql.Data.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\MySql.Data.xml
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jacksonwss\Desktop\Elaborator\WFA_tcc\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator_JackPassouAqui\WFA_tcc\bin\Debug\WFA_tcc.exe.config
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator_JackPassouAqui\WFA_tcc\obj\Debug\WFA_tcc.exe
+D:\ID3\TCC - 19.06 (Atualizado)\Elaborator_JackPassouAqui\WFA_tcc\obj\Debug\WFA_tcc.pdb

@@ -1,0 +1,120 @@
+-- MySQL Workbench Synchronization
+-- Generated: 2017-04-10 21:54
+-- Model: New Model
+-- Version: 1.0
+-- Project: Name of the project
+-- Author: felipeqd_0116id
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
+
+CREATE SCHEMA IF NOT EXISTS `bd_elaborator` DEFAULT CHARACTER SET utf8 ;
+
+CREATE TABLE IF NOT EXISTS `bd_elaborator`.`professor` (
+  `idprofessor` INT(11) NOT NULL AUTO_INCREMENT,
+  `nomeProf` VARCHAR(45) NOT NULL,
+  `emailProf` VARCHAR(45) NOT NULL,
+  `cpfProf` VARCHAR(15) NOT NULL,
+  `telProf1` VARCHAR(15) NOT NULL,
+  `telProf2` VARCHAR(15) NULL DEFAULT NULL,
+  `enderecoProf` VARCHAR(100) NULL DEFAULT NULL,
+  `dispoProf` VARCHAR(45) NULL DEFAULT NULL,
+  `login` VARCHAR(45) NOT NULL,
+  `senha` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`idprofessor`),
+  UNIQUE INDEX `cpfProf_UNIQUE` (`cpfProf` ASC),
+  UNIQUE INDEX `emailProf_UNIQUE` (`emailProf` ASC),
+  UNIQUE INDEX `idprofessor_UNIQUE` (`idprofessor` ASC),
+  UNIQUE INDEX `login_UNIQUE` (`login` ASC))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+CREATE TABLE IF NOT EXISTS `bd_elaborator`.`diasSemana` (
+  `idsemana` INT(11) NOT NULL AUTO_INCREMENT,
+  `nomeDia` VARCHAR(15) NOT NULL,
+  PRIMARY KEY (`idsemana`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+CREATE TABLE IF NOT EXISTS `bd_elaborator`.`materia` (
+  `idMateria` INT(11) NOT NULL AUTO_INCREMENT,
+  `nome` VARCHAR(30) NOT NULL,
+  `cargaHoraria` VARCHAR(45) NULL DEFAULT NULL,
+  PRIMARY KEY (`idMateria`),
+  UNIQUE INDEX `nome_UNIQUE` (`nome` ASC))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+CREATE TABLE IF NOT EXISTS `bd_elaborator`.`habilitacao` (
+  `materia_idMateria` INT(11) NOT NULL,
+  `formacaoProf` VARCHAR(45) NULL DEFAULT NULL,
+  PRIMARY KEY (`materia_idMateria`),
+  INDEX `fk_materia_has_professor_materia_idx` (`materia_idMateria` ASC),
+  CONSTRAINT `fk_materia_has_professor_materia`
+    FOREIGN KEY (`materia_idMateria`)
+    REFERENCES `bd_elaborator`.`materia` (`idMateria`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+CREATE TABLE IF NOT EXISTS `bd_elaborator`.`periodo` (
+  `idperiodo` INT(11) NOT NULL AUTO_INCREMENT,
+  `nome` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`idperiodo`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+CREATE TABLE IF NOT EXISTS `bd_elaborator`.`DisponibilidadeProfessor` (
+  `iddispo` INT(11) NOT NULL,
+  `iddiasemana` INT(11) NOT NULL,
+  `idperiodo` INT(11) NOT NULL,
+  `idprof` INT(11) NOT NULL,
+  PRIMARY KEY (`iddispo`, `iddiasemana`, `idperiodo`, `idprof`),
+  INDEX `iddia_semana_idx` (`iddiasemana` ASC),
+  INDEX `idperido_idx` (`idperiodo` ASC),
+  INDEX `idprof_idx` (`idprof` ASC),
+  CONSTRAINT `iddia_semana`
+    FOREIGN KEY (`iddiasemana`)
+    REFERENCES `bd_elaborator`.`diasSemana` (`idsemana`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `idperido`
+    FOREIGN KEY (`idperiodo`)
+    REFERENCES `bd_elaborator`.`periodo` (`idperiodo`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `idprof`
+    FOREIGN KEY (`idprof`)
+    REFERENCES `bd_elaborator`.`professor` (`idprofessor`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
+
+USE bd_elaborator;
+
+insert into bd_elaborator.professor (
+	nomeProf, 
+    emailProf, 
+    cpfProf, 
+    telProf1, 
+    telProf2, 
+    enderecoProf, 
+    login, 
+    senha)
+values(
+	'.',
+    '.',
+    '0',
+    '0',
+    '0',
+    '.',
+    'admin',
+    '12344');

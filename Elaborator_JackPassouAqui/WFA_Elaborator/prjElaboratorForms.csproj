@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66EE2268-9E4F-48E0-9BE2-68FE94563368}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WFA_tcc</RootNamespace>
+    <AssemblyName>WFA_tcc</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.3.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.3.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.6.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.6.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.16\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\ConectaBD.cs" />
+    <Compile Include="View\frmAlterarDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmAlterarDados.Designer.cs">
+      <DependentUpon>frmAlterarDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmAlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmAlterarSenha.Designer.cs">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmDadosGerais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDadosGerais.Designer.cs">
+      <DependentUpon>frmDadosGerais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastro.Designer.cs">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroDispo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroDispo.Designer.cs">
+      <DependentUpon>frmCadastroDispo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmMaterias.Designer.cs">
+      <DependentUpon>frmMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmDadosDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDadosDocente.Designer.cs">
+      <DependentUpon>frmDadosDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmDispoGeral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDispoGeral.Designer.cs">
+      <DependentUpon>frmDispoGeral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroMaterias.Designer.cs">
+      <DependentUpon>frmCadastroMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmMenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmMenuAdmin.Designer.cs">
+      <DependentUpon>frmMenuAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmMenuDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmMenuDocente.Designer.cs">
+      <DependentUpon>frmMenuDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DocenteDAO.cs" />
+    <Compile Include="Model\MateriasDAO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="View\frmAlterarDados.resx">
+      <DependentUpon>frmAlterarDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmAlterarSenha.resx">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmDadosGerais.resx">
+      <DependentUpon>frmDadosGerais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastro.resx">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroDispo.resx">
+      <DependentUpon>frmCadastroDispo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmMaterias.resx">
+      <DependentUpon>frmMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmDadosDocente.resx">
+      <DependentUpon>frmDadosDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmDispoGeral.resx">
+      <DependentUpon>frmDispoGeral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroMaterias.resx">
+      <DependentUpon>frmCadastroMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmMenuAdmin.resx">
+      <DependentUpon>frmMenuAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmMenuDocente.resx">
+      <DependentUpon>frmMenuDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saaair cópia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoadm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_prof_azul_com_frase cópia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picasion.com_0459d8e5806a7889411cd6cb50900528.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picasion.com_4ae0733dd1f29ed7d8fd4079cc4eaab0.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picasion.com_6ae577b31a6fae85e160c4d7e9fb396e.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picasion.com_1a3c7cc6bea21bb482be2e4cdfc02344.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxi1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimi1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mini1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxi2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxi3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setaa.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
